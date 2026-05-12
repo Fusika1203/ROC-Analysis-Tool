@@ -1,0 +1,5 @@
+{
+  "name": "ROC Analysis Tool",
+  "description": "Interactive app for ROC analysis to evaluate continuous indicators against binary outcomes.",
+  "requestFramePermissions": []
+}
