@@ -1183,7 +1183,7 @@ export default function App() {
               <p className="text-blue-700">If you find this tool useful, please consider giving it a star on GitHub!</p>
             </div>
             <a 
-              href="https://github.com/Fusika1203/ROC-Analysis_Tool" 
+              href="https://github.com/Fusika1203/ROC-Analysis-Tool" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-6 py-3 rounded-xl font-semibold transition-all shadow-lg hover:shadow-xl active:scale-95"
