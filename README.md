@@ -19,7 +19,7 @@ $$J = \text{Sensitivity} + \text{Specificity} - 1$$
 1. **Download and install Node.js:** https://nodejs.org/en/download
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/Fusika1203/ROC-Analysis_Tool.git
+   git clone https://github.com/Fusika1203/ROC-Analysis-Tool.git
    cd roc-analysis-tool
 3. **Install dependencies:**
    ```bash
